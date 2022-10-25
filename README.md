@@ -50,7 +50,7 @@ To develop your understanding of the domain, you are advised to independently re
 ## Data Understanding
 This dataset has 3 files as explained below: 
 
-1. 'application_data.csv'  contains all the information of the client at the time of application.
+1. [application_data.csv](https://drive.google.com/file/d/13itISG-RqGXwfTdY9JA1k_Dcr386PQXs/view?usp=sharing)  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
-2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
-3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
+2. [previous_application.csv](https://drive.google.com/file/d/1QRP1qvj03ZzL_SetuuRoXoo77HfnKBhx/view?usp=sharing) contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+3. [columns_description.csv](https://drive.google.com/file/d/14pHJa_y70Szk9fCPSUEzEFl-Q7gqfpo5/view?usp=sharing) is data dictionary which describes the meaning of the variables.
